@@ -8,6 +8,7 @@ def func(a,b):
 
 print (func(10,1))
 print ('Hello, world!')
+print ('Goodbye')
 
 def Test(t):
     return t
