@@ -1,6 +1,6 @@
 import sys
 
-sys.setrecursionlimit(3000)
+sys.setrecursionlimit(2000)
 
 def Akk(m,n):
     if m == 0:
