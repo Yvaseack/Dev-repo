@@ -9,6 +9,7 @@ def func(a,b):
 print (func(10,1))
 print ('Hello, world!')
 print ('Goodbye')
+print (':-)')
 
 def Test(t):
     return t
