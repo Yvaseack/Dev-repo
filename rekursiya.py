@@ -7,7 +7,7 @@ def func(a,b):
         return f'{a}, {func(a+1, b)}'
 
 print (func(10,1))
-print ('Hello, world!')
+print ('Hello, world!;')
 print ('Goodbye')
 print (':-)')
 
